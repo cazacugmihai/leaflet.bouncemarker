@@ -1,0 +1,36 @@
+{
+  "name": "leaflet.bouncemarker",
+  "version": "1.0.0",
+  "description": "A plugin for Leaflet to have a bounce animation when adding a Marker to a map",
+  "main": "bouncemarker.js",
+  "files": [
+    "bouncemarker.js",
+    "README.*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cazacugmihai/leaflet.bouncemarker.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": {
+    "name": "maximeh"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cazacugmihai/leaflet.bouncemarker/issues"
+  },
+  "homepage": "https://github.com/cazacugmihai/leaflet.bouncemarker#readme",
+  "dependencies": {},
+  "gitHead": "3e6f311b0c916589dfd3861d43de8f4f5eeb19be",
+  "readme": "A plugin for Leaflet to have a bounce animation when adding a Marker to a map",
+  "readmeFilename": "README.md",
+  "_id": "leaflet.bouncemarker@1.0.0",
+  "_shasum": "5ad31740cf73df856616e573626c3e2b37e24b24",
+  "_from": "git://github.com/cazacugmihai/leaflet.bouncemarker.git",
+  "_resolved": "git://github.com/cazacugmihai/leaflet.bouncemarker.git#3e6f311b0c916589dfd3861d43de8f4f5eeb19be"
+}
